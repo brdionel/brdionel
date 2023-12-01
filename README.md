@@ -15,6 +15,12 @@ const brDionel = {
 | --- | --- | --- |
 | Tienda con carrito | [Ver](https://github.com/brdionel/cart-react) | [Visitar](https://brdionel.netlify.app/) |
 
+## ⌨️ Proyectos Full Stack con código
+
+| Proyecto | Código | Web |
+| --- | --- | --- |
+| Take Notes | |  |
+
 <!--
 **brdionel/brdionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
