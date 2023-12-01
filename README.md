@@ -1,11 +1,11 @@
 <h2> ¡Hola 👋 ! Soy Bruno <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img width="35%" align="right" margin="0 0 0 15px"  alt="Github" src="https://res.cloudinary.com/dtnixnyfz/image/upload/v1693366109/emoji/qxf8umwhk2f5oao6bitg.png" />
-<p>Soy un Desarrollador Front End con +2 años de experiencia. Más allá de lo técnico me destaco por colaborar con el equipo y apoyar a mis compañeros. Hacer la tecnología más humana. Versátil para adaptarme a diversas tecnologías, con humildad, paciencia y dedicación para entregar código de calidad en el plazo estimado.</p>
+<p>Soy un Desarrollador Full Stack con +2 años de experiencia. Más allá de lo técnico me destaco por colaborar con el equipo y apoyar a mis compañeros. Hacer la tecnología más humana. Versátil para adaptarme a diversas tecnologías, con humildad, paciencia y dedicación para entregar código de calidad en el plazo estimado.</p>
 
 ```javascript
 const brDionel = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Graphql, Redux, Angular, Sass, Jest, Cypress, Git],
+  code: [Javascript, Typescript, HTML, CSS, SQL],
+  tools: [React, Graphql, Redux, Angular, Sass, Jest, Cypress, Git, Node.JS, MySQL],
   languages: [Español, Portugués, Inglés]
 }
 ```
