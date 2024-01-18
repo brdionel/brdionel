@@ -9,13 +9,13 @@ const brDionel = {
   languages: [Español, Portugués, Inglés]
 }
 ```
-## ⌨️ Proyectos de React con código
+## ⌨️ Proyectos de React
 
 | Proyecto | Código | Web |
 | --- | --- | --- |
 | Tienda con carrito | [Ver](https://github.com/brdionel/cart-react) | [Visitar](https://brdionel.netlify.app/) |
 
-## ⌨️ Proyectos Full Stack con código
+## ⌨️ Proyectos Full Stack
 
 | Proyecto | Código | Web |
 | --- | --- | --- |
