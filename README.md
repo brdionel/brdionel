@@ -19,7 +19,7 @@ const brDionel = {
 
 | Proyecto | Código | Web |
 | --- | --- | --- |
-| Take Notes | |  |
+| Taking Notes | [Ver](https://github.com/brdionel/takingnotes) |  |
 
 <!--
 **brdionel/brdionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
