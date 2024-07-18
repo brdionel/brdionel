@@ -5,7 +5,7 @@
 ```javascript
 const brDionel = {
   code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [React, Graphql, Redux, Angular, Node.JS, MySQL, Sass, Jest, Cypress, Git],
+  tools: [React, Redux, Redux Toolkit, Tailwindcss, Tremor, Material UI, Angular, Node.JS, MySQL, Cypress, Git],
   languages: [Español, Portugués, Inglés]
 }
 ```
