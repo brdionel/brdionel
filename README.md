@@ -25,6 +25,7 @@ const brDionel = {
 TODO:
 - Change the yellow color by #ede734
 - Handle dark mode
+- Add test E2E with Playwriight
 -->
 <!--
 **brdionel/brdionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
