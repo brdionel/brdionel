@@ -4,8 +4,8 @@
 
 ```javascript
 const brDionel = {
-  code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [React, Redux, Redux Toolkit, Zustand, Tailwindcss, Styled Component, Tremor, Material UI, Angular, Cypress, wright, Node.JS, MySQL],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "SQL"],
+  tools: ["React", "Redux", "Redux Toolkit", "Zustand", "Tailwindcss", "Styled Component", "Tremor", "Material UI", "Angular", "Cypress", "Playwright", "Node.JS", "MySQL"],
   languages: [Español, Portugués, Inglés]
 }
 ```
