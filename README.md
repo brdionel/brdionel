@@ -22,6 +22,11 @@ const brDionel = {
 | Taking Notes | [Ver](https://github.com/brdionel/takingnotes) | [Ver](https://brtakingnotes.netlify.app) |
 
 <!--
+TODO:
+- Change the yellow color by #ede734
+- Handle dark mode
+-->
+<!--
 **brdionel/brdionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
