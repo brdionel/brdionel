@@ -1,25 +1,26 @@
-<h2> ¡Hola 👋 ! Soy Bruno <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hello 👋 ! I'm Bruno <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img width="35%" align="right" margin="0 0 0 15px"  alt="Github" src="https://res.cloudinary.com/dtnixnyfz/image/upload/v1693366109/emoji/qxf8umwhk2f5oao6bitg.png" />
-<p>Soy un Desarrollador Full Stack con +2 años de experiencia. Más allá de lo técnico me destaco por colaborar con el equipo y apoyar a mis compañeros. Hacer la tecnología más humana. Versátil para adaptarme a diversas tecnologías, con humildad, paciencia y dedicación para entregar código de calidad en el plazo estimado.</p>
+<p>I’m a Full Stack developer with over 2 years of experience. I love working in teams and supporting my colleagues whenever I can. My goal is to make technology more accessible and human. I easily adapt to different tools and technologies, always with humility, patience, and a commitment to delivering quality code on time.</p>
 
 ```javascript
 const brDionel = {
   code: ["Javascript", "Typescript", "HTML", "CSS", "SQL"],
   tools: ["React", "Redux", "Redux Toolkit", "Zustand", "Tailwindcss", "Styled Component", "Tremor", "Material UI", "Angular", "Cypress", "Playwright", "Node.JS", "MySQL"],
-  languages: ["Español", "Portugués", "Inglés"]
+  languages: ["Spanish", "Portuguese", "English"]
 }
 ```
-## ⌨️ Proyectos de React
+## ⌨️ React Projects
 
-| Proyecto | Código | Web |
+| Project | Code | Web |
 | --- | --- | --- |
-| Tienda con carrito | [Ver](https://github.com/brdionel/cart-react) | [Visitar](https://brdionel.netlify.app/) |
+| Shopping Cart | [View](https://github.com/brdionel/cart-react) | [Visit](https://brdionel.netlify.app/) |
+| Media Board | [View](https://github.com/brdionel/media_board) | [Visit](https://brmediaboard.netlify.app/) |
 
-## ⌨️ Proyectos Full Stack
+## ⌨️ Full Stack Projects 
 
-| Proyecto | Código | Web |
+| Project | Code | Web |
 | --- | --- | --- |
-| Taking Notes | [Ver](https://github.com/brdionel/takingnotes) | [Ver](https://brtakingnotes.netlify.app) |
+| Taking Notes | [View](https://github.com/brdionel/takingnotes) | [Visit](https://brtakingnotes.netlify.app) |
 
 <!--
 TODO:
