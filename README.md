@@ -16,6 +16,7 @@ const brDionel = {
 | Shopping Cart | [View](https://github.com/brdionel/cart-react) | [Visit](https://brdionel.netlify.app/) |
 | Media Board | [View](https://github.com/brdionel/media_board) | [Visit](https://brmediaboard.netlify.app/) |
 | Weather Wheel | [View](https://github.com/brdionel/wheater-wheel) | [Visit](https://brweatherwheel.netlify.app/) |
+| GoalTable | [View](https://github.com/brdionel/football) | [Visit](https://brfootball.netlify.app/) |
 
 ## ⌨️ Full Stack Projects 
 
